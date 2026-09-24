@@ -1,0 +1,12 @@
+{
+  "name": "node-github-actions-demo",
+  "version": "1.0.0",
+  "description": "Node.js application using GitHub Actions",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo Build completed successfully"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
